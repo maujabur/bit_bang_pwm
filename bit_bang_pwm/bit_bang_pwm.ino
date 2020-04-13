@@ -6,6 +6,9 @@
 //
 // Mau at MauMaker dot com
 //
+// attach leds to pins 2-11, 
+// in series with 1K ohm resistors to ground
+//
 /////////////////////////////////////////////////////////
 
 #define MAX_BRIGHT 10 // 1-255
